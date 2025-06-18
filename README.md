@@ -68,4 +68,14 @@ Hi! I'm Priyank, a self-driven developer with a strong passion for backend engin
 * 🔗 [LinkedIn](https://www.linkedin.com/in/priyank-aggarwal-6656a7275/)
 * 📩 Email: [priyanktutorial@gmail.com](mailto:priyanktutorial@gmail.com)
 
+## 📊 LeetCode Stats
+
+- 🟢 **Easy**: 461 / 882  
+- 🟡 **Medium**: 281 / 1861  
+- 🔴 **Hard**: 12 / 843  
+- ✅ **Total Solved**: **754**
+
+I’m constantly working on improving my problem-solving skills by regularly practicing on [LeetCode](https://leetcode.com/u/Priyank_Aggarwal28/).
+
+
 > “Stay curious. Keep building. Learn by shipping.”
